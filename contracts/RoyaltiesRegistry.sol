@@ -1,0 +1,1 @@
+import "@rarible/royalties-registry/contracts/RoyaltiesRegistry.sol";

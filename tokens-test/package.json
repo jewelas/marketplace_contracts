@@ -1,0 +1,18 @@
+{
+  "name": "@rarible/test",
+  "version": "0.0.2",
+  "private": true,
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts-upgradeable": "3.4.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

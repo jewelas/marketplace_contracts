@@ -1,0 +1,1 @@
+import "@rarible/transfer-proxy/contracts/proxy/TransferProxy.sol";

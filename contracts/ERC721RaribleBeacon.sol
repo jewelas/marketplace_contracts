@@ -1,0 +1,1 @@
+import "@rarible/tokens/contracts/beacons/ERC721RaribleBeacon.sol";

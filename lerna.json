@@ -1,0 +1,40 @@
+{
+  "packages": [
+    "auction",
+    "custom-matchers",
+    "deploy",
+    "exchange-v2",
+    "gas-usage-tests",
+    "exchange-wrapper",
+    "interfaces",
+    "meta-tx",
+    "lazy-mint",
+    "lib-asset",
+    "lib-bp",
+    "lib-part",
+    "lib-signature",
+    "role-operator",
+    "royalties",
+    "royalties-registry",
+    "royalties-upgradeable",
+    "tokens",
+    "tokens-minimal",
+    "tokens-test",
+    "transfer-manager",
+    "transfer-proxy"
+  ],
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "version": "independent",
+  "publishConfig": {
+    "access": "public"
+  },
+  "command": {
+    "publish": {
+      "allowBranch": "master",
+      "conventionalCommits": true,
+      "message": "chore(release): bump versions after release",
+      "yes": true
+    }
+  }
+}

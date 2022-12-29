@@ -1,0 +1,1 @@
+import "@rarible/tokens/contracts/create-2/ERC721RaribleFactoryC2.sol";

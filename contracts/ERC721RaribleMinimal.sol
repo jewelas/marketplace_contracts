@@ -1,0 +1,1 @@
+import  "@rarible/tokens/contracts/erc-721-minimal/ERC721RaribleMinimal.sol";
